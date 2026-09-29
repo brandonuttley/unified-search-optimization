@@ -1,0 +1,29 @@
+{
+  "skill_name": "unified-search-optimization",
+  "evals": [
+    {
+      "id": 1,
+      "prompt": "We publish comparison articles about payroll software. Our pages rank on page one but Perplexity and ChatGPT keep citing competitors instead. Audit this page structure and tell me what to change: [paste page text]",
+      "expected_output": "A pass/fail table against the Step 11 checklist, fixes classified by layer (Access first), the top three changes most likely to move citation share, every recommendation carrying a G/I/P/S evidence label, and no claims that schema or llms.txt alone will fix it.",
+      "files": []
+    },
+    {
+      "id": 2,
+      "prompt": "Write an outline and the opening 200 words for a page answering 'What is a fiduciary financial advisor?' that works for Google, AI Overviews, voice assistants, and Perplexity.",
+      "expected_output": "Target query and 20-35 word answer sentence stated first; a 40-75 word answer block at the top; H2s phrased as fan-out sub-questions; a comparison table plan with prose summary; visible FAQ; author byline and sources; note on balanced language for regulated content.",
+      "files": []
+    },
+    {
+      "id": 3,
+      "prompt": "Our agency says we need FAQ schema, HowTo schema, and an llms.txt file to show up in AI search. Is that right?",
+      "expected_output": "States that FAQ rich results ended May 7, 2026 and HowTo in 2023 (markup still valid, no Google effect); cites Google's May 2026 guide saying llms.txt and special schema are not needed for its AI features; labels the agency's claim [I] with no primary support; recommends Article/Person/Organization schema and visible Q&A content; separates the training-bot decision from citation.",
+      "files": []
+    },
+    {
+      "id": 4,
+      "prompt": "Set up a way for us to track whether we're being cited by AI engines. We have Search Console, Bing Webmaster Tools, and GA4 but no paid tools.",
+      "expected_output": "Minimum viable stack: Search Console Generative AI report, Bing AI Performance report, GA4 referrer segments, server-log user-agent counts, and a fixed 20-prompt weekly panel with a logging template; reports share of AI voice rather than raw counts; benchmarks labeled [I].",
+      "files": []
+    }
+  ]
+}
