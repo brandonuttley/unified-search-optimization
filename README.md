@@ -1,6 +1,6 @@
-# unified-search-optimization
+# Unified Search Optimization
 
-A Claude Skill that treats SEO, AEO (answer engine optimization), and GEO (generative engine optimization) as one discipline with three retrieval patterns. It gives Claude a five-layer framework, four comparison matrices (tactics, technical requirements, schema, metrics), an eleven-step content structuring guide with a pre-publish checklist, and an evidence register that separates Google-confirmed guidance from industry studies and inference.
+A Skill for Claude and similar LLMs that treats SEO, AEO (answer engine optimization), and GEO (generative engine optimization) as one discipline with three retrieval patterns. It gives Claude a five-layer framework, four comparison matrices (tactics, technical requirements, schema, metrics), an eleven-step content structuring guide with a pre-publish checklist, and an evidence register that separates Google-confirmed guidance from industry studies and inference.
 
 Current as of **September 29, 2026**. It reflects Google's May 15, 2026 generative-AI guidance, the May 7, 2026 end of FAQ rich results, and 2026 citation studies from Ahrefs, CXL, Profound, and others.
 
